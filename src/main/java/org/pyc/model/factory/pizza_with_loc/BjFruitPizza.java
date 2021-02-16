@@ -1,4 +1,4 @@
-package org.pyc.model.factory.factory_method;
+package org.pyc.model.factory.pizza_with_loc;
 /*
 	* @product IntelliJ IDEA
 	* @project design-pattern

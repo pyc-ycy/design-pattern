@@ -1,4 +1,4 @@
-package org.pyc.model.factory.factory_method.order;
+package org.pyc.model.factory.factory_method;
 /*
 	* @product IntelliJ IDEA
 	* @project design-pattern
@@ -9,6 +9,10 @@ package org.pyc.model.factory.factory_method.order;
 	* @author 御承扬
 	* @E-mail 2923616405@qq.com
 	**/
+
+import org.pyc.model.factory.factory_method.order.OrderBjPizza;
+import org.pyc.model.factory.factory_method.order.OrderLfPizza;
+import org.pyc.model.factory.factory_method.order.OrderPizza;
 
 /**
 	* @author 彭友聪
